@@ -1,0 +1,1 @@
+В файле main.py переменные EMAIL_FROM и EMAIL_PASSWORD нужно заполнить вручную
